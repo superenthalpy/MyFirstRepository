@@ -13,7 +13,7 @@ public class OneServlet extends HttpServlet {
         resp.sendRedirect("/Cookie_war_exploded/TwoServlet");
         cookie1.setMaxAge(60);          //是cookie在浏览器硬盘存活60s
     }
-//又更改了一次
+//瞎了？？？？？
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
