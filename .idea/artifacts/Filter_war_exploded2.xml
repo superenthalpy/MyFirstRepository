@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Filter对拦截的请求对象做增强处理:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Filter_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Filter对拦截的请求对象做增强处理/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Filter对拦截的请求对象做增强处理" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
