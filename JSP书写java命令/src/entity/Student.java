@@ -4,12 +4,10 @@ public class Student {
     Integer id;
     String name;
     String sex;
-
+    public Student(){}
     public Student(Integer id) {
         this.id = id;
     }
-    public Student(){}
-
     public Integer getId() {
         return id;
     }
