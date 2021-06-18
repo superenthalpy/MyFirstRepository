@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EL工作空间.iml" filepath="$PROJECT_DIR$/EL工作空间.iml" />
+      <module fileurl="file://$PROJECT_DIR$/传统JSP开发步骤/传统JSP开发步骤.iml" filepath="$PROJECT_DIR$/传统JSP开发步骤/传统JSP开发步骤.iml" />
     </modules>
   </component>
 </project>
